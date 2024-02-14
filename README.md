@@ -11,5 +11,5 @@ between age-related changes in the mice blood and liver genes. There was a small
 between the different tissues with a p-value of 2.1e-13. We found that the following drug-metabolizing
 genes changed with age in both tissue types: Abca8a, Gstp1, Gstp2, Abca1, and Abca4.
 
-# Skills: R programming, tidyr, ggplot2, GeneOverlap, dplyr
-# Domain Knowledge: Pharmacogenomics, Epigenetics 
+### Skills: R programming, tidyr, ggplot2, GeneOverlap, dplyr
+### Domain Knowledge: Pharmacogenomics, Epigenetics 
